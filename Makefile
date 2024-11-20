@@ -1,5 +1,5 @@
 #Program name
-NAME	= fractol
+NAME	= fractal_generator
 
 # Compilel
 CC		= cc
